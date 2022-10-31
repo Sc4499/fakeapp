@@ -1,0 +1,15 @@
+.new-exp-col{
+    display: flex;
+    width: 70%;
+    height:100px;
+    background-color: cadetblue;
+    justify-content: center;
+    align-items: center;
+    border-radius: 80px;
+    margin: 0 auto;
+    border:  2px solid grey;
+}
+
+.new-expenxe-control{
+    margin:0 auto;
+}
